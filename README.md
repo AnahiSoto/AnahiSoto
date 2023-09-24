@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AnahiSoto/AnahiSoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Java, C# and JavaScript a lil bit
 - 🌱 I’m currently learning JavaScript
@@ -11,5 +7,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: anahisooto@gmail.com
-- ⚡ Fun fact: imma cat lover
--->
+- ⚡ Fun fact: imma animal lover n i love to try new things!!
