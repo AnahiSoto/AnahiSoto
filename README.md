@@ -1,5 +1,5 @@
 
-# ¡Hi, there! 🙌🏻
+# Hi, there! 🙌🏻
 
 - 👩🏻‍💻 I'm a software engineering student.
 - 📌 I'm currently working at [Tecnolochicas](https://tecnolochicas.mx/) program as an instructor in web programming and artificial intelligence courses.
