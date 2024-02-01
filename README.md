@@ -3,8 +3,8 @@
 
 - 👩🏻‍💻 I'm a software engineering student.
 - 📌 I'm currently working at [Tecnolochicas](https://tecnolochicas.mx/) program as an instructor in web programming and artificial intelligence courses.
-- 👯 I am looking to collaborate on digital projects that mix web design, data science and AI.
-- 🌱 Nowadays, I'm learning about FrontEnd development and JavaScript. 
+- 👯 I am looking to collaborate on digital projects that mix web design and AI.
+- 🌱 Nowadays, I'm learning about FrontEnd development and UX/UI design. 
 - 📫 Feel free to get in touch with me via:
   * Instagram: [@notanahisoto](https://www.instagram.com/notanahisoto/)
   * Gmail: anahisooto28@gmail.com
